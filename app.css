@@ -1,0 +1,31 @@
+.heading {
+  color: red;
+}
+
+#high {
+  background-color: #ff0000; 
+}
+
+#med {
+  background-color: blue;
+}
+
+#low {
+  background-color: yellow;
+  color: black;
+}
+
+
+.text-center {
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.customers {
+  border: 1px solid black; 
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
